@@ -1,0 +1,4 @@
+#Wed Apr 15 17:00:58 ICT 2020
+base.0=E\:\\AndroidStudioApps\\RecyclerViewListHewanEndemikIndo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
